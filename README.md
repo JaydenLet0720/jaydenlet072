@@ -1,6 +1,6 @@
-# jaydenlet0720.github.io
+# Jayden's HQ!
 
-**Jayden's HQ**
+**Features:**
 
 - Proxies
 
